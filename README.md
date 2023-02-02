@@ -1,2 +1,6 @@
-# game-T-REX
-<a href="https://flaviooprogramador.github.io/game-T-REX/"></a>
+
+<a href="https://flaviooprogramador.github.io/game-T-REX/"># game-T-REX</a>
+
+
+Tecle space para pular 
+ou cetinha para cima ;)
